@@ -1,5 +1,9 @@
 {
     "BotShin's server": {
-        "Name_chanel" : ""
+        "Name_chanel": "kenh-chat",
+        "Name_even": "SHINSAD",
+        "Description": "\ud83c\udf89",
+        "Start_Time": "Welcome",
+        "End_Time": "to"
     }
 }
